@@ -1,4 +1,4 @@
-## Aurora Weather
+## Temp Tales
 
 Premium, glassmorphism-inspired weather app built with React, Vite and Framer Motion, powered by OpenWeather One Call 3.0.
 
